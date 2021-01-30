@@ -18,3 +18,4 @@ export default {
     promise: new Promise((resolve, reject) => reject(new Error())),
   }),
 };
+//comment-simple git pull request
